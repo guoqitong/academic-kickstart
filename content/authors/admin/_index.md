@@ -22,20 +22,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Micro/nano Fabrication
+- Femtosecond laser
 - Robotics
 - Automation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: M.A. in Mechanical Engineering
     institution: Beijing Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
+    year: 2018-2021
+  - course: B.A. in Mechanical Design, Manufacture & Automation
     institution: Central South University
-    year: 2008
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
