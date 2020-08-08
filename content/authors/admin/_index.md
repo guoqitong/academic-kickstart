@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qitong Guo(郭奇彤)
 
 # Username (this should match the folder name)
 authors:
@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Micro/nano Fabrication
+- Robotics
+- Automation
 
 education:
   courses:
@@ -31,10 +31,10 @@ education:
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Beijing Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Central South University
     year: 2008
 
 # Social/Academic Networking
