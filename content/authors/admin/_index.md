@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master student in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Beijing Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
