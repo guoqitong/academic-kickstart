@@ -67,5 +67,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+<div style="text-align: justify">
 Qitong Guo is a Master student in Mechanical Engineering at Beijing Institute of Technology. He has a wide range of research interests, including ultra-fast laser micro/nano manufacturing, 3D printing, spectral signal analysis, mechatronics, robotics and automation. Relevant project experience enables him to go deep into each interested track. In the context of “Industry 4.0”, he wants to work for improving the intelligence of mechanical systems.
+</div>
