@@ -1,45 +1,21 @@
 ---
-title = "Skills"
-subtitle = ""
+title: Skills
 
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: 1
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+<div style="text-align: justify">
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
 
-+++
+* Wang, M., Guo, Q., Wang, S., Zhu, W., Tian, F., Wei, Y., ... & Yang, J. (2020). Interference femtosecond laser stamping of micro-grating structures and time-resolved observation of its dynamics. Optics Express, 28(12), 18376-18386.
+* Wang, M., Jiang, L., Wang, S., Guo, Q., Tian, F., Chu, Z., ... & Lu, Y. (2019). Multiscale visualization of colloidal particle lens array mediated plasma dynamics for dielectric nanoparticle enhanced femtosecond laser-induced breakdown spectroscopy. Analytical chemistry, 91(15), 9952-9961.
