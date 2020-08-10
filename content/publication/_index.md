@@ -18,5 +18,5 @@ header:
 
  ### Publications
 
-* Zheng, Y., Zheng, Z., Ma, M., & Zu, Z. (2018). Improving Usability. *E-Government and Information Technology Management: Concepts and Best Practices*, *43*.
-* Imai, K. (2018). *Quantitative social science: An introduction*.(Xu Y. and Zu Z., Trans.) .Shanghai University of Finance &Economics Press. 2020
+* Wang, M., Guo, Q., Wang, S., Zhu, W., Tian, F., Wei, Y., ... & Yang, J. (2020). Interference femtosecond laser stamping of micro-grating structures and time-resolved observation of its dynamics. Optics Express, 28(12), 18376-18386.
+* Wang, M., Jiang, L., Wang, S., Guo, Q., Tian, F., Chu, Z., ... & Lu, Y. (2019). Multiscale visualization of colloidal particle lens array mediated plasma dynamics for dielectric nanoparticle enhanced femtosecond laser-induced breakdown spectroscopy. Analytical chemistry, 91(15), 9952-9961.
