@@ -20,7 +20,6 @@ header:
 
 
 * C++, Labview, PLC
-
  ### Data Processing
 
 * Origin, Matlab
@@ -31,4 +30,4 @@ header:
 
  ### Modeling and Simulation Testing
 
-* Auto CAD, Solidworks, CATIA, creo, ANSYS
+* Auto CAD, Solidworks, CATIA, Creo, ANSYS
