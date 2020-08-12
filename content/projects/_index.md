@@ -33,3 +33,5 @@ header:
 * Auto CAD, Solidworks, CATIA, Creo, ANSYS
 
 {{< figure library="true" src="image.jpg" title="A caption" >}}
+
+{{< video library="true" src="my_video.mp4" controls="yes" >}}
