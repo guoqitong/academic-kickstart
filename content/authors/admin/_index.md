@@ -25,6 +25,7 @@ interests:
 - Femtosecond laser
 - Robotics
 - Automation
+- 3D Printing
 
 education:
   courses:
