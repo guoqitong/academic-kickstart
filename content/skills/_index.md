@@ -30,4 +30,4 @@ header:
 
  ### Modeling and Simulation Testing
 
-* Auto CAD, Solidworks, CATIA, Creo, ANSYS
+* Auto CAD, Solidworks, CATIA, CREO, ANSYS
