@@ -31,7 +31,7 @@ header:
 
 * Origin, Matlab
 
- ### Electronic design and Simulation
+ ### 2018, Design of robot grasping structure for box cargo
 
 * Keil C51, Arduino, Multisim, Proteus
 
