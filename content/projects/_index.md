@@ -29,9 +29,9 @@ header:
 
 * Keil C51, Arduino, Multisim, Proteus
 
- ### Modeling and Simulation Testing
+ ### Central South University Formula Racing Team/Electric
 
-* Auto CAD, Solidworks, CATIA, CREO, ANSYS
+* Worked in the electrical department, responsible for driving motor control, signal and power cable connection, design of water-cooling system and battery box, sensor selection.
 
 {{< figure library="true" src="image.jpg" title="A caption" >}}
 
