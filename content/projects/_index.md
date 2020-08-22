@@ -19,7 +19,7 @@ header:
  ### Teeth composition detection by temporally shaped fs-LIBS
 
 
-* C++, Labview, PLC
+* Using basic machine learning method (PCA, PLS-DA) to do dimensionality reduction and classification of the original laser induced breakdown spectrum data for three different dental compositions, and to predict the unknown tooth composition
  ### Data Processing
 
 * Origin, Matlab
