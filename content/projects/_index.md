@@ -32,6 +32,7 @@ header:
  ### Central South University Formula Racing Team/Electric
 
 * Worked in the electrical department, responsible for driving motor control, signal and power cable connection, design of water-cooling system and battery box, sensor selection.
+* Formula Student Electric China (FSEC)-2016 team rank: 16 / 32.
 
 {{< figure library="true" src="image.jpg" title="A caption" >}}
 
