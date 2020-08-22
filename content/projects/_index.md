@@ -19,7 +19,8 @@ header:
  ### Teeth composition detection by temporally shaped fs-LIBS
 
 
-* Using basic machine learning method (PCA, PLS-DA) to do dimensionality reduction and classification of the original laser induced breakdown spectrum data for three different dental compositions, and to predict the unknown tooth composition
+* Using basic machine learning method (PCA, PLS-DA) to do dimensionality reduction and classification of the original laser induced breakdown spectrum data for three different dental compositions, and to predict the unknown tooth composition.
+* The accuracy of the established classification detection model is more than 97.7% and the model is also reliable in predicting unknown data.
  ### Data Processing
 
 * Origin, Matlab
