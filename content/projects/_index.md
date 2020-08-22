@@ -20,7 +20,7 @@ header:
 * Focus on the improvement of printing resolution and 3D micro-structure (microfluidic channel, micro-lens array) processing.
 * Using time resolved imaging.
 
- ### Teeth composition detection by temporally shaped fs-LIBS
+ ### Teeth composition detection by temporally shaped fs-LIBS, 2018-pres
 
 
 * Using basic machine learning method (PCA, PLS-DA) to do dimensionality reduction and classification of the original laser induced breakdown spectrum data for three different dental compositions, and to predict the unknown tooth composition.
