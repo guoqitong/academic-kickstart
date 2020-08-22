@@ -32,8 +32,8 @@ header:
 * Origin, Matlab
 
  ### 2018, Design of robot grasping structure for box cargo
-
-* Keil C51, Arduino, Multisim, Proteus
+* The structural design is aimed at reducing the gap during stacking of mechanical arms, and the structure is optimized by finite element analysis (FEA) under the condition of safety, so as to carry out the lightweight design.
+* The stacking gap can be controlled at 11mm.
 
  ### 2016, Central South University Formula Racing Team/Electric
 
