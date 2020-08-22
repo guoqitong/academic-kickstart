@@ -34,12 +34,10 @@ header:
  ### 2018, Design of robot grasping structure for box cargo
 * The structural design is aimed at reducing the gap during stacking of mechanical arms, and the structure is optimized by finite element analysis (FEA) under the condition of safety, so as to carry out the lightweight design.
 * The stacking gap can be controlled at 11mm.
-
+{{< video library="true" src="my_video.mp4" controls="yes" >}}
  ### 2016, Central South University Formula Racing Team/Electric
 
 * Worked in the electrical department, responsible for driving motor control, signal and power cable connection, design of water-cooling system and battery box, sensor selection.
 * Formula Student Electric China (FSEC)-2016 team rank: 16 / 32.
 
 {{< figure library="true" src="image.jpg" height="200" width="200" title="A caption" >}}
-
-{{< video library="true" src="my_video.mp4" controls="yes" >}}
