@@ -26,6 +26,7 @@ header:
 * Using basic machine learning method (PCA, PLS-DA) to do dimensionality reduction and classification of the original laser induced breakdown spectrum data for three different dental compositions, and to predict the unknown tooth composition.
 * The accuracy of the established classification detection model is more than 97.7% and the model is also reliable in predicting unknown data.
 {{< figure library="true" src="PCA.jpg" title="PCA analysis of LIBS signal of enamel, dentin and caries ablated by fs laser" >}}
+{{< figure library="true" src="PLSDA.jpg" title="PLS-DA analysis of LIBS signal of enamel, dentin and caries ablated by fs laser" >}}
  ### Data Processing
 
 * Origin, Matlab
