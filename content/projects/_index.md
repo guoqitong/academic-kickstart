@@ -20,7 +20,7 @@ header:
 * Focus on the improvement of printing resolution and 3D micro-structure (microfluidic channel, micro-lens array) processing.
 * Using time resolved imaging.
 
- ### Teeth composition detection by temporally shaped fs-LIBS, 2018-pres
+ ### 2018-pres, Teeth composition detection by temporally shaped fs-LIBS
 
 
 * Using basic machine learning method (PCA, PLS-DA) to do dimensionality reduction and classification of the original laser induced breakdown spectrum data for three different dental compositions, and to predict the unknown tooth composition.
@@ -35,7 +35,7 @@ header:
 
 * Keil C51, Arduino, Multisim, Proteus
 
- ### Central South University Formula Racing Team/Electric
+ ### 2016, Central South University Formula Racing Team/Electric
 
 * Worked in the electrical department, responsible for driving motor control, signal and power cable connection, design of water-cooling system and battery box, sensor selection.
 * Formula Student Electric China (FSEC)-2016 team rank: 16 / 32.
