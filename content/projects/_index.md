@@ -40,6 +40,6 @@ header:
 * Worked in the electrical department, responsible for driving motor control, signal and power cable connection, design of water-cooling system and battery box, sensor selection.
 * Formula Student Electric China (FSEC)-2016 team rank: 16 / 32.
 
-{{< figure library="true" src="image.jpg" title="A caption" >}}
+{{< figure library="true" src="image.jpg" height="200" width="200" title="A caption" >}}
 
 {{< video library="true" src="my_video.mp4" controls="yes" >}}
