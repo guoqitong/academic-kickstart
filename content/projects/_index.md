@@ -18,6 +18,7 @@ header:
 
  ### Laser printing of UV curing materials
 * Focus on the improvement of printing resolution and 3D micro-structure (microfluidic channel, micro-lens array) processing.
+* Using time resolved imaging.
 
  ### Teeth composition detection by temporally shaped fs-LIBS
 
