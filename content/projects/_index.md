@@ -16,7 +16,7 @@ header:
 
 <div style="text-align: justify">
 
- ### Programming
+ ### Teeth composition detection by temporally shaped fs-LIBS
 
 
 * C++, Labview, PLC
