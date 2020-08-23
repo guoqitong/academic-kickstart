@@ -49,7 +49,7 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ziwen-zu-59a964104/
+  link: https://www.linkedin.com/in/%E5%A5%87%E5%BD%A4-%E9%83%AD-3009171b3/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:qitong.guo@outlook.com'
