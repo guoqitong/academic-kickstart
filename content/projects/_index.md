@@ -33,9 +33,7 @@ header:
 * The accuracy of the established classification detection model is more than 97.7% and the model is also reliable in predicting unknown data.
 {{< figure library="true" src="PCA.jpg" height="1400" width="700" title="PCA analysis of LIBS signal of enamel, dentin and caries ablated by fs laser" >}}
 {{< figure library="true" src="PLSDA.jpg" height="1400" width="700" title="PLS-DA analysis of LIBS signal of enamel, dentin and caries ablated by fs laser" >}}
- ### Data Processing
 
-* Origin, Matlab
 
  ### 2018, Design of robot grasping structure for box cargo
 * Undergraduate graduation project at Central South University
