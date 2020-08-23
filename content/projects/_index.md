@@ -17,6 +17,8 @@ header:
 <div style="text-align: justify">
 
  ### 2020, Intelligent washing water saving system based on turbidity detection (with Yu Chen)
+* Laundry wastewater is recycled and purified by classification: The relatively clean rinsing water and dehydrated water are collected through real-time purification treatment and participate in the washing process again.
+* Intelligent control of laundry time and water consumption: The gravity sensor is used to determine the initial time and water use as well as the time of dehydration. The turbidity detection sensor is used to collect the water quality data of the previous process, and through the fuzzy control principle, the appropriate time for the next process is calculated to achieve the purpose of saving water and energy.
 
  ### 2019-pres, Laser printing of UV curing materials
 * Focus on the improvement of printing resolution and 3D micro-structure (microfluidic channel, micro-lens array) processing.
