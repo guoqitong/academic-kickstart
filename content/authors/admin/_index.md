@@ -52,7 +52,7 @@ social:
   link: https://www.linkedin.com/in/ziwen-zu-59a964104/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:qitong.guo@outlook.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
