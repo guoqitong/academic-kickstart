@@ -16,7 +16,7 @@ header:
 
 <div style="text-align: justify">
 
- ### 2020, Intelligent washing water saving system based on turbidity detection
+ ### 2020, Intelligent washing water saving system based on turbidity detection (with Yu Chen)
 
  ### 2019-pres, Laser printing of UV curing materials
 * Focus on the improvement of printing resolution and 3D micro-structure (microfluidic channel, micro-lens array) processing.
