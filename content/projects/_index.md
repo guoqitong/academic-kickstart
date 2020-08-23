@@ -33,7 +33,8 @@ header:
 
 * Origin, Matlab
 
- ### 2018, Design of robot grasping structure for box cargo (Undergraduate graduation project)
+ ### 2018, Design of robot grasping structure for box cargo
+* Undergraduate graduation project at Central South University
 * The structural design is aimed at reducing the gap during stacking of mechanical arms, and the structure is optimized by finite element analysis (FEA) under the condition of safety, so as to carry out the lightweight design.
 * The stacking gap can be controlled at 11mm.
 {{< figure library="true" src="Grasp.jpg" height="415" width="1000" title="A caption" >}}
