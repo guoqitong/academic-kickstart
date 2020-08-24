@@ -46,7 +46,7 @@ social:
   link: https://join.skype.com/invite/WkXiz5VRVenZ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/guoqitong
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E5%A5%87%E5%BD%A4-%E9%83%AD-3009171b3/
