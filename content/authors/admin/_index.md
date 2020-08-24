@@ -43,10 +43,7 @@ education:
 social:
 - icon: skype
   icon_pack: fab
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://join.skype.com/invite/WkXiz5VRVenZ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
