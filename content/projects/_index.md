@@ -25,6 +25,7 @@ header:
  ### 2019-pres, Laser printing of UV curing materials
 * Laser induced forward transfer (LIFT) was applied as printing method, time resolved imaging was used to figure out the dynamic process of printing and temporally shaped fs-laser was used to obtain smaller printing resolution.
 * Printing volume resolution less than 20 pL and 3D micro-structure (microfluidic channel, micro-lens array) were obtained.
+{{< figure library="true" src="setup.jpg" height="363" width="600" title="Overall structure of control system" >}}
 
  ### 2018-pres, Teeth composition detection by temporally shaped fs-LIBS
 
