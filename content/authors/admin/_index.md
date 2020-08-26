@@ -26,7 +26,6 @@ interests:
 - Robotics
 - Automation
 - 3D Printing
-- 3D Printing
 
 education:
   courses:
