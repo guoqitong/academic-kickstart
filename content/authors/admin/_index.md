@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Automation
+- Robotics
+- 3D Printing
 - Micro/nano Fabrication
 - Femtosecond laser
-- Robotics
-- Automation
-- 3D Printing
 
 education:
   courses:
