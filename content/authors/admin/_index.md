@@ -23,6 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Automation
 - Robotics
+- Machine/Deep Learning
 - 3D Printing
 - Micro/nano Fabrication
 - Femtosecond laser
