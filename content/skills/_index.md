@@ -19,7 +19,7 @@ header:
  ### Programming
 
 
-* C++, LabVIEW, PLC, ROS (Robot Operating System)
+* C++, Python, LabVIEW, PLC, ROS (Robot Operating System)
  ### Data Processing
 
 * Origin, MATLAB
