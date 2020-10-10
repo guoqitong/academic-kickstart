@@ -52,7 +52,7 @@ social:
   link: https://www.linkedin.com/in/%E5%A5%87%E5%BD%A4-%E9%83%AD-3009171b3/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:qitong.guo@outlook.com'
+  link: 'mailto:qitongguo@bit.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
