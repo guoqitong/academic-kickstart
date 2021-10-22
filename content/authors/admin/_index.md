@@ -14,7 +14,7 @@ role: Ph.D student in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Beijing Institute of Technology
+- name: The university of Tokyo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
