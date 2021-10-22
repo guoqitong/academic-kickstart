@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master student in Mechanical Engineering
+role: Ph.D student in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
