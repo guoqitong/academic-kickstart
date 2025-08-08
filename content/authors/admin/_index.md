@@ -14,7 +14,7 @@ role: Ph.D student in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: The university of Tokyo
+- name: The University of Tokyo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Mechanical Engineering
+    institution: The University of Tokyo
+    year: 2021-now
   - course: M.A. in Mechanical Engineering
     institution: Beijing Institute of Technology
     year: 2018-2021
