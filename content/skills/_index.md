@@ -33,4 +33,4 @@ header:
 
  ### Programming
 
-* C++, python, MATLAB, Simulink, LabVIEW, PLC, development in Linux
+* C++, python, MATLAB, Simulink, LabVIEW, PLC; pytorch; development in Linux
