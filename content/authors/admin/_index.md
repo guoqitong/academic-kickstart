@@ -18,15 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, reinforcement learning and automation.
 
 interests:
-- Automation
 - Robotics
+- Reinforcement Learning
 - Machine/Deep Learning
-- 3D Printing
-- Micro/nano Fabrication
-- Femtosecond laser1
+- Automation
+- Mechanical Engineering
+- Electronic Engineering
 
 education:
   courses:
@@ -56,7 +56,7 @@ social:
   link: https://www.linkedin.com/in/%E5%A5%87%E5%BD%A4-%E9%83%AD-3009171b3/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:qitongguo@bit.edu.cn'
+  link: 'mailto:guoqitong1995@163.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 <div style="text-align: justify">
-Qitong Guo is a Master student in Mechanical Engineering at Beijing Institute of Technology. He has a wide range of research interests, including ultra-fast laser micro/nano manufacturing, 3D printing, spectral signal analysis, mechatronics, robotics and automation. Relevant project experience enables him to go deep into each interested track. In the context of “Industry 4.0”, he wants to work for improving the intelligence of mechanical systems.
+Qitong Guo is a doctoral student in Mechanical Engineering at The University of Tokyo. He has a wide range of research interests and experiences, including robot planning and control, Reinforcement Learning, mechatronics, mechanical design and electrical design. Relevant project experience enables him to go deep into each interested track. In the context of rapid development of robotics, he wants to work for improving the intelligence and practicability of robot systems.
 </div>
