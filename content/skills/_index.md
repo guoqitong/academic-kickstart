@@ -16,21 +16,21 @@ header:
 
 <div style="text-align: justify">
 
- ### Programming
+ ### Robotics related
 
 
-* C++, Python, LabVIEW, PLC, ROS (Robot Operating System)
- ### Data Processing
+* ROS2, ROS1, IsaacSim, IsaacLab (Gym), CoppeliaSim (V-REP), Moveit2, Ruckig
+ ### Reinforcement Learning
 
-* Origin, MATLAB
- ### Machine/Deep Learning
+* DDPG, TD3, PPO, SAC, A2C
+ ### Mechanical Design
 
-* Keras
+* Solidworks, Inventor, CATIA, CREO, Auto CAD, ANSYS
 
  ### Electronic design and Simulation
 
-* Keil C51, Arduino, Multisim, Proteus
+* STM32, C51, Arduino; Keil, Multisim, Proteus, EasyEDA
 
- ### Modeling and Simulation Testing
+ ### Programming
 
-* Auto CAD, Solidworks, CATIA, CREO, ANSYS
+* C++, python, MATLAB, Simulink, LabVIEW, PLC, development in Linux
