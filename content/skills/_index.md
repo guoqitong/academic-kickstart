@@ -25,7 +25,7 @@ header:
 * DDPG, TD3, PPO, SAC, A2C
  ### Mechanical Design
 
-* Solidworks, Inventor, CATIA, CREO, Auto CAD, ANSYS
+* Solidworks, Inventor, CATIA, CREO, Auto CAD; ANSYS; 3D printing
 
  ### Electronic design and Simulation
 
@@ -33,4 +33,4 @@ header:
 
  ### Programming
 
-* C++, python, MATLAB, Simulink, LabVIEW, PLC; pytorch; development in Linux
+* C++, python, MATLAB, Simulink, LabVIEW, PLC; PyTorch; OpenCV; development in Linux
