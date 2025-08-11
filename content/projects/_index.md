@@ -17,9 +17,11 @@ header:
 <div style="text-align: justify">
 
  ### 2021-pres, Table Tennis Robot System
- {{< video library="true" src="ttrobot.mp4" controls="yes" >}}
- <iframe width="560" height="315" 
-        src="https://meeting.tencent.com/crm/2OqY4xW1a7" 
-        frameborder="0" allowfullscreen>
-</iframe>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe src="https://meeting.tencent.com/crm/2OqY4xW1a7"
+          style="position:absolute; top:0; left:0; width:100%; height:100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 * Challenges: Robust 3D recognition, tracking, and prediction of high-speed moving targets; Stable trajectory planning and execution of robots; Accurate and flexible intelligent decision-making; Implementation of low latency real-time system; Multi factor sensitive noise elimination, etc.
