@@ -32,7 +32,7 @@ education:
   courses:
   - course: Ph.D. in Mechanical Engineering
     institution: The University of Tokyo
-    year: 2021-now
+    year: 2021-2026
   - course: M.A. in Mechanical Engineering
     institution: Beijing Institute of Technology
     year: 2018-2021
